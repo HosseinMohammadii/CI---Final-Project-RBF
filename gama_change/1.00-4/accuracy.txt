@@ -1,4 +1,0 @@
-accuracy is  92.85714285714286
-C created
-G created
-accuracy is  93.33333333333333
