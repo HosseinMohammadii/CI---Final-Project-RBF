@@ -1,0 +1,4 @@
+accuracy is  91.54761904761905
+C created
+G created
+accuracy is  91.94444444444444
